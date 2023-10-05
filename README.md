@@ -1,1 +1,2 @@
-# first_fonctions-
+# first_functions-
+ceci est mon premier repertoire 
